@@ -1,6 +1,6 @@
-import model.user
+from model.user import User
 
 class IUser:
 
-    def findOne(self, user_id) -> User:
+    def find_one(self, user_id) -> User:
         pass

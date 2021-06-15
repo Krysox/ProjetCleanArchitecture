@@ -1,4 +1,4 @@
-import model.productCatalog
+from model.productCatalog import ProductCatalog
 
 class Price:
 

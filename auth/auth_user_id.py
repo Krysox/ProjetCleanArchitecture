@@ -1,4 +1,4 @@
-import iauth
+from auth.iauth import IAuth
 
 class AuthUserId(IAuth):
 
